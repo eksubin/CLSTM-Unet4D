@@ -1,0 +1,7 @@
+logs/
+__pycache__
+mlruns
+unet3d_with_time_best.pth
+unet3D.py
+test.ipynb
+Archive

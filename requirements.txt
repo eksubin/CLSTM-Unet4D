@@ -1,0 +1,2 @@
+# Required pip installs
+pip install numpy tqdm matplotlib argparse mlflow monai
