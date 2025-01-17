@@ -12,7 +12,10 @@ This project implements a 3D U-Net model enhanced with Convolutional Long Short-
 
 ## CLSTM UNet3D
 
-The CLSTM UNet3D model is a convolutional neural network architecture that combines convolutional and LSTM (Long Short-Term Memory) layers for the purpose of processing volumetric data. It is particularly useful for tasks such as semantic segmentation in medical imaging. 
+The CLSTM UNet3D model is a convolutional neural network architecture that combines convolutional and LSTM (Long Short-Term Memory) layers for the purpose of processing volumetric data as given in the figure below. It is particularly useful for tasks such as semantic segmentation in medical imaging. 
+
+![CLSTM UNet3D Architecture](./Figures/network.png)
+
 
 ### Key Features
 
